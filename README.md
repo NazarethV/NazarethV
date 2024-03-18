@@ -5,11 +5,14 @@
 
 <p align="left">I'm a FullStack developer from Argentina 🙌.<br><br>🔭✨ I'm currently focused on web development projects, but I'm always looking for new challenges that allow me to expand my knowledge and skills in different areas.<br><br>🤝👯I love to learn and constantly improve myself, so I'm always open to new ideas and collaboration proposals.</p>
 
+
+
 ###
 
 # 💻 Tech Stack:
 
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
