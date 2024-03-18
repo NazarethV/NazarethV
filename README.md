@@ -18,6 +18,13 @@ I'm a FullStack developer from Argentina 🙌.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nazareth-villar-a473b9242/) 
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NazarethV&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=NazarethV&icon=8&color=10)](https://visitcount.itsvg.in)
+
+
 
 
 
