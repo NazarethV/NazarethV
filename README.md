@@ -1,10 +1,3 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
 
 <h2 align="left">Hi👋, I'm Nazareth Villar</h2>
 
@@ -14,7 +7,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+# 💻 Tech Stack:
 
 ###
 
@@ -46,11 +39,13 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
-</div>
+## Connect with me:
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:nazarethvillar38@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nazareth-villar-a473b9242/) 
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NazarethV&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ###
 
