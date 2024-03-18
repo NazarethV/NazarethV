@@ -8,7 +8,9 @@ I'm a FullStack developer from Argentina 🙌.
 
 
 
-Javascript Typescript HTML Css Redux React Bootstrap Express NodeJs Mongodb Postgresql Firebase Android React Native Figma Postman Canvasjs Jestjsio Git
+
+##🌐[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nazareth-villar-a473b9242/) 
+
 
 
 
