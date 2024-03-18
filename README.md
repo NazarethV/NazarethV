@@ -7,3 +7,14 @@ I'm a FullStack developer from Argentina 🙌.
 🤝👯I love to learn and constantly improve myself, so I'm always open to new ideas and collaboration proposals. 
 
 
+
+Javascript Typescript HTML Css Redux React Bootstrap Express NodeJs Mongodb Postgresql Firebase Android React Native Figma Postman Canvasjs Jestjsio Git
+
+
+
+
+
+
+
+
+
