@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">I'm a developer from Argentina 🇦🇷 specializing mainly in backend development, but I also have the skills to work on frontend projects 🙌.<br><br>🔭✨ I'm currently focused on web development projects, but I'm always looking for new challenges that allow me to expand my knowledge and skills in different areas.<br><br>🤝👯I love to learn and constantly improve myself, so I'm always open to new ideas and collaboration proposals.</p>
+<p align="left">I'm a developer from Argentina 🇦🇷 specializing mainly in backend development, but I also have the skills to work on frontend projects 🙌✨ <br><br>🔭✨ I'm currently focused on web development projects, but I'm always looking for new challenges that allow me to expand my knowledge and skills in different areas.<br><br>🤝👯I love to learn and constantly improve myself, so I'm always open to new ideas and collaboration proposals.</p>
 
 
 
