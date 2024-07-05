@@ -48,7 +48,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazareth-villar-dev/)
 
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies -----
 ![](https://github-profile-trophy.vercel.app/?username=NazarethV&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
