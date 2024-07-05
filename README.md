@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
- <img width="-20" />
+ <img width="20" />
   <img src="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg" height="40" alt="rest api logo"  />
 </div>
 
@@ -53,7 +53,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazareth-villar-dev/)
 
 
-## 🏆 GitHub Trophies -----
+## 🏆 GitHub Trophies 
 ![](https://github-profile-trophy.vercel.app/?username=NazarethV&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
