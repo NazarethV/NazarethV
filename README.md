@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/restfulapi/restfulapi-icon.svg" height="40" alt="rest api logo"  />
+  <img src="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg" height="40" alt="rest api logo"  />
 </div>
 
 ###
